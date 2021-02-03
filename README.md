@@ -1,7 +1,7 @@
 # The future of women in the global workforce
 
-Global labor force participation rate has steadily declined since 1990 due to aging of population.  One of the approaches to reverse this trend is increasing female labor participation since it generally increases with economic development and sustainable development (International Labour Orgagnization).  
-However, this relationship is neither straightforward nor consistent across countries (Verick, 2014).  This is due to differences in economic and social factors including economic growth, educational attainment, fertility rates and social norms.  
+Global labor force participation rate has steadily declined since 1990 due to aging of population.  One of the approaches to reverse this trend is increasing female labor participation since it generally increases with economic development and sustainable development (International Labour Orgagnization).  However, this relationship is neither straightforward nor consistent across countries (Verick, 2014).  This is due to differences in economic and social factors including economic growth, educational attainment, fertility rates and social norms.  
+
 Study of female labor force participation as a driver of growth is essential as it may be crucial to alleviating the adverse economic effects of aging demographics.
 
 I believe this is an opportune time to study women’s education and subsequent attainable employment as new data from the World Bank and International Labor Organization with gender-sensitive standards have recently become available.  
@@ -23,4 +23,5 @@ License
 ----
 
 [World Bank](https://datatopics.worldbank.org/education/)
+
 [International Labour Organization](https://ilostat.ilo.org/topics/women/)
